@@ -1,0 +1,6 @@
+SUBSTITUIR URL_BASE pela URL de produção atribuída pelo Cloudflare Pages.
+Página inicial:
+URL_BASE
+
+URL de retorno:
+URL_BASE/oauth/callback/github

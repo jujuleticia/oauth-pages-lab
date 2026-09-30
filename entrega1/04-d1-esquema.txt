@@ -1,0 +1,7 @@
+name|type
+oauth_transactions|table
+sessions|table
+oauth_transactions_expiry|index
+sessions_expiry|index
+
+Observação: substituir pelo resultado exato da consulta sqlite_schema realizada no D1.
